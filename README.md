@@ -1,5 +1,5 @@
-🔭 I’m currently working on  FullStack Web projects
-🤝 I’m looking for help with Backend Libraries
+🔭 I’m currently working on  FullStack Web projects \n
+🤝 I’m looking for help with Backend Libraries \n
 🌱 I’m currently learning DSA, ML and WebDEv
 
 ## 🌐 Socials:
