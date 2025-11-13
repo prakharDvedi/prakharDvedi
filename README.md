@@ -18,7 +18,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/prakharDvedi)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/prakhar_the_vedi/)  
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/prakhar_d_vedi)  
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat)]([https://drive.google.com/file/d/1_4T4MCS_T6Z1igbg4L3k0BtoIzRTMC7v/view?usp=sharing](https://drive.google.com/file/d/1G8ENhRTMof0kX5iWo7nZd_wGCwkcvGnW/view?usp=sharing))
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat)](https://drive.google.com/file/d/1_4T4MCS_T6Z1igbg4L3k0BtoIzRTMC7v/view?usp=sharing](https://drive.google.com/file/d/1G8ENhRTMof0kX5iWo7nZd_wGCwkcvGnW/view?usp=sharing))
 
 ---
 
