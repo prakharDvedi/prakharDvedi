@@ -65,8 +65,8 @@ Open to:
 
 ## 🧩 What I Care About
 
-- Writing simple, readable code before clever abstractions  
-- Understanding systems, not just frameworks  
-- Learning fast by building, breaking, and fixing  
+- Writing simple, readable code
+- Understanding systems
+- Building things that are fun and useful to me.
 
 If something here aligns with what you’re building, feel free to reach out.
