@@ -11,7 +11,6 @@
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-dwivedi-a05611292/)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prakharDvedi)[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/prakhar_the_vedi/)[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/prakhar_d_vedi)[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat)](https://drive.google.com/file/d/1G8ENhRTMof0kX5iWo7nZd_wGCwkcvGnW/view)
-![Profile views](https://komarev.com/ghpvc/?username=prakharDvedi&style=flat-square)
 
 
 ---
