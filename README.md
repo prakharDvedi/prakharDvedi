@@ -112,29 +112,6 @@ Containerized microservice backend (auth, user, task services) with a comprehens
 **LFX Mentee** · The Linux Foundation (Magma Core) · Jan 2026–Present
 > Onboarding into Magma Core's distributed C++ packet-core architecture; contributing to Docker migration workflows targeting Ubuntu 24.04 compatibility
 
-**Teaching Assistant** · Digital Logic Design · IIIT Bhopal
-> Mentoring 60+ students, assisting with evaluation and problem-solving sessions
-
----
-
-## Achievements
-
-- 🏆 Top 12K of 262K participants — Adobe India Hackathon 2025 (top 5%)
-- 🥇 Ranked 1st in ECE department — Semester 3 (SGPA: 9.32)
-- 🏅 Top 5 & Top 20 at inter-college hackathons (CodeUtsav – NIT Raipur; HackX 3.0 – MUJ)
-- 💻 LeetCode: 1799 rating · CodeChef: 1614 (3★) · 400+ problems solved
-
----
-
-## Engineering Principles
-
-- **Measure before optimizing** — latency numbers, not intuition
-- **Contracts first** — Pydantic + TypeScript types prevent runtime surprises
-- **Deployable by default** — every project ships with a Dockerfile
-- **Tests that block bad merges** — CI pipelines that actually enforce quality
-
----
-
 *If you're building backend systems, DevOps infrastructure, or AI integrations — reach out.*
 
 📧 prakhar.dwivedi.3782@gmail.com
