@@ -16,12 +16,6 @@ ECE @ IIIT Bhopal (2027) · Open to internships
 
 I build and ship full-stack systems with a focus on backend reliability, measurable performance, and clean deployment. Currently interning at **Brinavv Technologies** (production MERN stack) and serving as an **LFX Mentee at the Linux Foundation** working on Magma Core's distributed C++ packet-core infrastructure.
 
-What I actually care about:
-- Backend systems that don't break in production
-- CI/CD pipelines that catch failures before users do
-- AI integrations that are reliable, not just impressive in a demo
-- Performance you can measure — latency numbers, not vibes
-
 ---
 
 ## Tech Stack
