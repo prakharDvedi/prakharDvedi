@@ -1,16 +1,11 @@
 ### Hi, I'm Prakhar Dwivedi 👋
 
-**Backend & Systems-focused Software Engineer** building production-ready web applications.
+I've built Backend systems, real-time infrastructure, and did applied AI engineering.
 
-I enjoy working on **distributed systems, real-time infrastructure, AI-powered tools**, and scalable backend architectures.
-
-### Currently
-- Building reliable and observable systems
-- Exploring advanced backend patterns and AI engineering
-
-### Featured Work
-Check out my pinned projects below — they represent my best work in full-stack development, real-time systems, AI applications, and DevOps.
-
----
-
-**Open to internships / full-time roles** | [prakhar-dwivedi.in](https://www.prakhar-dwivedi.in) | [LinkedIn]([link](https://www.linkedin.com/in/prakhar-dwivedi-a05611292/)) | [Email](mailto:prakhardwivedi.12@gmail.com)
+Focused on:
+- backend
+- distributed systems
+- LLM/RAG integrations
+- observability
+- developer tooling
+- production-grade web applications
