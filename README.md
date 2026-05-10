@@ -1,11 +1,9 @@
-### Hi, I'm Prakhar Dwivedi 👋
+## Hi, I'm Prakhar Dwivedi 👋
 
-I've built Backend systems, real-time infrastructure, and did applied AI engineering.
+I build **backend systems, real-time infrastructure, and applied AI solutions** that are designed for production.
 
 Focused on:
-- backend
-- distributed systems
-- LLM/RAG integrations
-- observability
-- developer tooling
-- production-grade web applications
+- Scalable backend & distributed systems
+- Real-time applications & observability
+- LLM/RAG integrations & developer tooling
+- Production-grade web applications
