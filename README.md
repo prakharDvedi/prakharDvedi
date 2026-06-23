@@ -1,32 +1,47 @@
-## Hi, I'm Prakhar Dwivedi
+# Hi, I'm Prakhar Dwivedi 
+Final Year Engineering student at IIIT Bhopal.
 
-3rd-year Electronics & Communication Engineering undergraduate at IIIT Bhopal.
+I build AI-powered products, backend systems, and full-stack applications with a focus on LLMs, agent workflows, observability, and developer tooling.
 
-Building AI-powered products, backend systems, and full-stack applications with a focus on LLMs, agentic workflows, and scalable software infrastructure.
+### What I've Built
+* RAG and agentic AI systems using LangGraph and LangChain
+* AI-powered ATS and HR platforms
+* Blockchain-based content provenance and verification systems
+* Real-time web applications and workflow automation tools
+* Backend APIs, data pipelines, and developer infrastructure
 
-**Worked on:** RAG pipelines, multi-agent LangGraph systems, AI-powered ATS platforms, blockchain verification systems, real-time applications, and production-grade HR software.
+### Tech Stack
+**Languages & Frameworks**
+TypeScript · Python · Next.js · React · FastAPI · Node.js
 
-**Stack:** Next.js · React · FastAPI · Node.js · PostgreSQL · MongoDB · Redis · Docker · LangChain · LangGraph
+**Databases & Infrastructure**
+PostgreSQL · MongoDB · Redis · Docker · AWS
 
-**Also:** WebSockets · JWT Auth · GitHub Actions · AWS · Hugging Face · IPFS · Blockchain Integrations
+**AI & Web3**
+LangChain · LangGraph · Hugging Face · OpenRouter · Langfuse · IPFS · Blockchain Integrations
 
-### Currently
+**Other**
+WebSockets · JWT Auth · GitHub Actions
+
+### Experience
+**AI & Web3 Intern @ Pear Protocol**
+* Working on AI agent observability, tracing, debugging, and workflow reliability
+* Investigating production failures and improving agent execution pipelines
+* Using Langfuse and modern AI tooling to monitor and optimize system behavior
 
 **Software Engineering Intern @ Zecruit AI**
-
-* Building OAuth authentication flows
-* Developing CSV ingestion and data-processing pipelines
-* Contributing to an AI-powered Applicant Tracking System (ATS)
-* Working on backend infrastructure and workflow automation
-
-### Previously
+* Built OAuth authentication and onboarding workflows
+* Developed CSV ingestion and data-processing pipelines
+* Contributed to an AI-powered Applicant Tracking System (ATS)
+* Worked on backend infrastructure and workflow automation
 
 **Linux Foundation LFX Mentee (Spring 2026)**
-* Contributing to Magma Core and open-source telecom infrastructure
+* Contributed to Magma Core and open-source telecom infrastructure
 
-**Brinavv Technologies**
+**Software Engineering Intern @ Brinavv Technologies**
 * Developed MERN-stack applications
 * Built payroll and HR management systems
 
 ### Interests
-AI Engineering · Backend Development · Distributed Systems · Open Source · Developer Tooling
+
+AI Engineering · Backend Systems · Developer Tooling · Distributed Systems · Open Source
