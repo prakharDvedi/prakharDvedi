@@ -1,11 +1,32 @@
 ## Hi, I'm Prakhar Dwivedi
 
-3rd-year undergrad at IIIT Bhopal.
+3rd-year Electronics & Communication Engineering undergraduate at IIIT Bhopal.
 
-Worked on: RAG pipelines, multi-agent LangGraph systems, full-stack web apps, production HR and ATS platforms.  
-Stack: Next.js · FastAPI · Node.js · PostgreSQL · MongoDB · Redis · Docker · LangChain · LangGraph  
-Also: WebSockets · JWT Auth · GitHub Actions · AWS · HuggingFace
+Building AI-powered products, backend systems, and full-stack applications with a focus on LLMs, agentic workflows, and scalable software infrastructure.
 
-Currently a Software Engineering Intern @ Zecruit AI — building OAuth flows, CSV ingestion pipelines, and working on an AI-powered ATS platform.
+**Worked on:** RAG pipelines, multi-agent LangGraph systems, AI-powered ATS platforms, blockchain verification systems, real-time applications, and production-grade HR software.
 
-Past: Dwarf AI (LangChain RAG pipelines) · Brinavv Technologies (MERN stack, payroll systems) · Linux Foundation LFX Mentee (Magma Core, Spring 2026)
+**Stack:** Next.js · React · FastAPI · Node.js · PostgreSQL · MongoDB · Redis · Docker · LangChain · LangGraph
+
+**Also:** WebSockets · JWT Auth · GitHub Actions · AWS · Hugging Face · IPFS · Blockchain Integrations
+
+### Currently
+
+**Software Engineering Intern @ Zecruit AI**
+
+* Building OAuth authentication flows
+* Developing CSV ingestion and data-processing pipelines
+* Contributing to an AI-powered Applicant Tracking System (ATS)
+* Working on backend infrastructure and workflow automation
+
+### Previously
+
+**Linux Foundation LFX Mentee (Spring 2026)**
+* Contributing to Magma Core and open-source telecom infrastructure
+
+**Brinavv Technologies**
+* Developed MERN-stack applications
+* Built payroll and HR management systems
+
+### Interests
+AI Engineering · Backend Development · Distributed Systems · Open Source · Developer Tooling
