@@ -25,9 +25,8 @@ WebSockets · JWT Auth · GitHub Actions
 
 ### Experience
 **AI & Web3 Intern @ Pear Protocol**
-* Working on AI agent observability, tracing, debugging, and workflow reliability
-* Investigating production failures and improving agent execution pipelines
-* Using Langfuse and modern AI tooling to monitor and optimize system behavior
+* Working on AI agent observability, tracing, and debugging to improve reliability of production AI systems
+* Contributing to agent workflows, execution pipelines, and AI infrastructure using tools such as Langfuse and OpenRouter
 
 **Software Engineering Intern @ Zecruit AI**
 * Built OAuth authentication and onboarding workflows
