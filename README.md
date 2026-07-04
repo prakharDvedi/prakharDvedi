@@ -1,46 +1,30 @@
-# Hi, I'm Prakhar Dwivedi 
-Final Year Engineering student at IIIT Bhopal.
+# Hi, I'm Prakhar
 
-I build AI-powered products, backend systems, and full-stack applications with a focus on LLMs, agent workflows, observability, and developer tooling.
+Software engineer working on backend systems, AI infrastructure, and developer tooling.
 
-### What I've Built
-* RAG and agentic AI systems using LangGraph and LangChain
-* AI-powered ATS and HR platforms
-* Blockchain-based content provenance and verification systems
-* Real-time web applications and workflow automation tools
-* Backend APIs, data pipelines, and developer infrastructure
+Currently working with production AI agents, observability, and distributed execution workflows.
 
-### Tech Stack
-**Languages & Frameworks**
-TypeScript · Python · Next.js · React · FastAPI · Node.js
+### Building
 
-**Databases & Infrastructure**
-PostgreSQL · MongoDB · Redis · Docker · AWS
+* Multi-agent systems and LLM workflows
+* Backend services and distributed systems
+* Developer infrastructure and automated testing
+* Production debugging and observability
 
-**AI & Web3**
-LangChain · LangGraph · Hugging Face · OpenRouter · Langfuse · IPFS · Blockchain Integrations
+### Stack
 
-**Other**
-WebSockets · JWT Auth · GitHub Actions
+**Languages**
+TypeScript · Python · C/C++ · JavaScript
 
-### Experience
-**AI & Web3 Intern @ Pear Protocol**
-* Working on AI agent observability, tracing, and debugging to improve reliability of production AI systems
-* Contributing to agent workflows, execution pipelines, and AI infrastructure using tools such as Langfuse and OpenRouter
+**Backend & Systems**
+Node.js · FastAPI · NestJS · REST APIs · WebSockets · Microservices
 
-**Software Engineering Intern @ Zecruit AI**
-* Built OAuth authentication and onboarding workflows
-* Developed CSV ingestion and data-processing pipelines
-* Contributed to an AI-powered Applicant Tracking System (ATS)
-* Worked on backend infrastructure and workflow automation
+**Data & Infrastructure**
+PostgreSQL · MongoDB · Redis · Docker · GitHub Actions · AWS
 
-**Linux Foundation LFX Mentee (Spring 2026)**
-* Contributed to Magma Core and open-source telecom infrastructure
+**AI & Observability**
+LangGraph · Langfuse · OpenRouter · Distributed Tracing
 
-**Software Engineering Intern @ Brinavv Technologies**
-* Developed MERN-stack applications
-* Built payroll and HR management systems
+---
 
-### Interests
-
-AI Engineering · Backend Systems · Developer Tooling · Distributed Systems · Open Source
+Interested in backend engineering, AI infrastructure, distributed systems, and open source.
