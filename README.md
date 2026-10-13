@@ -14,7 +14,7 @@ Currently working with production AI agents, observability, and distributed exec
 ### Stack
 
 **Languages**
-TypeScript · Python · C/C++ · JavaScript
+Python · Rust · C/C++ · TypeScript
 
 **Backend & Systems**
 Node.js · FastAPI · NestJS · REST APIs · WebSockets · Microservices
