@@ -2,14 +2,7 @@
 
 Software engineer working on backend systems, AI infrastructure, and developer tooling.
 
-Currently working with production AI agents, observability, and distributed execution workflows.
-
-### Building
-
-* Multi-agent systems and LLM workflows
-* Backend services and distributed systems
-* Developer infrastructure and automated testing
-* Production debugging and observability
+Currently working with production AI agents, Crypto Markets, agentic trading, observability, and distributed execution workflows.
 
 ### Stack
 
@@ -27,4 +20,5 @@ LangGraph · Langfuse · OpenRouter · Distributed Tracing
 
 ---
 
-Interested in backend engineering, AI infrastructure, distributed systems, and open source.
+Interested in Agentic AI, Harnesses, backend engineering, LLMops and open source.
+
